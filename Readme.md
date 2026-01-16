@@ -81,3 +81,8 @@ https://mentee-power.xl.ru/learn/MCIneBj4KkyH-GIRCspFvA/theory
 
 ### Правило веток
 feature/DVT-X
+
+### Git локальный цикл: шаги и команды
+git add  
+git commit -m  
+git push
